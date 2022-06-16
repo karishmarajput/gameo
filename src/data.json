@@ -4,55 +4,37 @@
       "id": 0,
       "name": "Bollywood",
       "link": "https://karishmarajput.github.io/Bollywood/",
-      "thumbnailimage": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+      "thumbnailimage": "https://github.com/karishmarajput/gameo/blob/c362696897a70279b3f6bb2d5cb8e8bfe0765958/asserts/bollywood.png?raw=true"
     },
     {
       "id": 1,
-      "name": "ABcd",
-      "link": "https://karishmarajput.github.io/Bollywood/",
-      "thumbnailimage": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+      "name": "Snake Game",
+      "link": "https://karishmarajput.github.io/snake-game/",
+      "thumbnailimage": "https://github.com/karishmarajput/gameo/blob/master/asserts/snakegame.png?raw=true"
     },
     {
       "id": 2,
-      "name": "Bollywood",
-      "link": "https://karishmarajput.github.io/Bollywood/",
-      "thumbnailimage": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+      "name": "Mazeo",
+      "link": "https://karishmarajput.github.io/Mazeo/",
+      "thumbnailimage": "https://github.com/karishmarajput/gameo/blob/master/asserts/mazeo.png?raw=true"
     },
     {
       "id": 3,
-      "name": "Bollywood",
-      "link": "https://karishmarajput.github.io/Bollywood/",
-      "thumbnailimage": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+      "name": "Typing Speed",
+      "link": "https://karishmarajput.github.io/typing-speed/",
+      "thumbnailimage": "https://github.com/karishmarajput/gameo/blob/master/asserts/typingSpeed.png?raw=true"
     },
     {
       "id": 4,
-      "name": "Bollywood",
-      "link": "https://karishmarajput.github.io/Bollywood/",
-      "thumbnailimage": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+      "name": "Odd Even",
+      "link": "hhttps://karishmarajput.github.io/odd-even-game/",
+      "thumbnailimage": "https://github.com/karishmarajput/gameo/blob/master/asserts/oddEven.png?raw=true"
     },
     {
       "id": 5,
-      "name": "Bollywood",
-      "link": "https://karishmarajput.github.io/Bollywood/",
-      "thumbnailimage": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Bollywood",
-      "link": "https://karishmarajput.github.io/Bollywood/",
-      "thumbnailimage": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Bollywood",
-      "link": "https://karishmarajput.github.io/Bollywood/",
-      "thumbnailimage": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
-    },
-    {
-      "id": 8,
-      "name": "Bollywood",
-      "link": "https://karishmarajput.github.io/Bollywood/",
-      "thumbnailimage": "https://static.vecteezy.com/packs/media/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg"
+      "name": "Stone Paper Scissors",
+      "link": "https://karishmarajput.github.io/sps/",
+      "thumbnailimage": "https://github.com/karishmarajput/gameo/blob/master/asserts/sps.png?raw=true"
     }
   ]
 }
