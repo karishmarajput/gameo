@@ -1,3 +1,3 @@
-# react-h4kkua
+# Gameo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-h4kkua)
+It is a WebApp that contains mini games.
